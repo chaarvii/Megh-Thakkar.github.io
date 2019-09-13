@@ -22,7 +22,7 @@ I am a huge fan of travelling, mostly travelling cheap and light. I am on a **mi
 
 ## Research Interest
 
-My research interests primarily lie in the field of machine learning and artificial intelligence, as well as their applications. I am fascinated by the human language and pretty much even remotely related to it, though I am slightly inclined towards researching on using language as a tool for human-computer interaction. I have also developed an interest in multimodal learning, researching at the intersection of natural language processing and computer vision.
+My research interests primarily lie in the field of machine learning and artificial intelligence, as well as their applications. I am fascinated by the **human language** and pretty much everything related to it, though I am slightly inclined towards researching on language as a tool for **human-computer interaction** and that sparks my interest in **dialogue systems and question answering models**. I have also developed an interest in **multimodal learning**, researching at the intersection of natural language processing and computer vision.
 
 ---
 

@@ -17,37 +17,34 @@ I am working as a research intern at the **Speech and Language Processing Group*
 
 *May 2019 - July 2019*
 
-I worked at [Language Technology Lab](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home.html) under [Prof. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html).
+I worked at [Language Technology Lab](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home.html) under [Prof. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html). I worked on a hybrid charcter+word level neural language model for generating completed queries for unseen prefixes. I experimented with the recently developed contextualized word embeddings such as BERT, Flair, ELMo as well as a combination of Fasttext and sent2vec, to capture the context of the query and provide better suggestions. I also used beam search for the query generation task and LambdaMART for re-ranking the suggestions. The model was able to beat the previous state-of-the-art by an increase of 2.2% in the MRR score on the AOL search log dataset.
 
 ---
 
-### **DataCube for Uttarakhand | IIRS, ISRO**
+### **BioJS Website | Google Summer of Code**
 
-*May 2016 - July 2016*
+*May 2018 - August 2018*
 
-I have worked in [Indian Institute of Remote Sensing](http://www.iirs.gov.in/), [Indian Space Research 
-Organization (**ISRO**)](http://www.isro.gov.in/) in the summer of 2016. I was working in the project 
-titled "*Development of Datacube for Uttarakhand using GeoSpatial Technologies*".
-Our task was to study the techniques of forming a DataCube and create one for ISRO.
+I led the development of a new [website for BioJS](biojs.net), a library of over hundred JavaScript components that enables one to visualize and process data using current web technologies. The backend stack used Django and frontend used VueJS. Timely database updates are facilitated from Github and the npm-registry.
 
-A DataCube is a model which can be used to quickly process temporal satellite data to observe _trends_ in various products like Vegetation Cover, Farm Land Use etc.
+---
 
-I was involved in determining the best GIS image storage formats for storing the 
-large satellite image data. I was also involved in the preprocessing of the raw 
-satellite digital number data to useful products such as Radiance and Reflectance. 
+### **UAV Flight Planner with Shadow Exclusion | IIRS, ISRO**
 
-I also modeled the core API and Execution Engines of the DataCube and created 
-algorithm templates which could run on the data of the area selected by the 
-user on an interactive web portal. 
+*May 2018 - July 2018*
 
-The code for the DataCube is open source and you can find it on [Github](http://github.com/sharat910/datacube-iirs).
+I worked at [Indian Institute of Remote Sensing](http://www.iirs.gov.in/), [Indian Space Research 
+Organization (**ISRO**)](http://www.isro.gov.in/) in the summer of 2018. I was working in the project 
+titled "*UAV Flight Planner with Shadow Exclusion*". The project involved the creation of an application that would automatically generate equally distant coordinates for capturing images by the **UAV for altitude varying terrain**, along with minimising the area covered that suffers from a shadow layer.
+
+The main problem was that the UAV did not have on-board processors, and hence, I had to devise a way by which areas under a shadow could be identified beforehand. I took the advantage of the area of interest being mountaineous. I used **Bresenhamm's line drawing algorithm** to trace a ray from the ground point immediately below the UAV to the position of the sun at which the readings will be taken. I extracted height data from HGT files and using a raster map with height values below the ray formed, I checked if the graph value at a coordinate was more than the ray's coordinate, a method similar to the one used in video games to generate shadows. The idea worked. This project gave me the inspiration to face problems with novel, off-the-track ideas.  
 
 ---
 
 ## Projects
 
 ---
-
+<!-- 
 ### **BITS LifeGuard | Mentor: [Dr. Rahul Banerjee](http://www.bits-pilani.ac.in/pilani/rahulbanerjee/profile)**
 
 *Nov 2015 - Jan 2018*
@@ -173,4 +170,4 @@ IIT Bombay Campus.
 * Awarded the INSPIRE Scholarship for being the top 1% of students in the CBSE Board Examination, 2014.
 * Awarded the Institute Merit Scholarship for Semester 1 and 2 at BITS Pilani for excellence in Academics.
 
----
+--- -->
