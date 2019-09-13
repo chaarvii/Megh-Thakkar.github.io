@@ -44,28 +44,23 @@ The main problem was that the UAV did not have on-board processors, and hence, I
 ## Projects
 
 ---
-<!-- 
-### **BITS LifeGuard | Mentor: [Dr. Rahul Banerjee](http://www.bits-pilani.ac.in/pilani/rahulbanerjee/profile)**
+ 
+### **Toy Compiler | Mentor: [Dr. Vandana Agarwal](https://universe.bits-pilani.ac.in/pilani/vandana/profile)**
 
-*Nov 2015 - Jan 2018*
+*January 2019 - April 2019*
 
-In [LifeGuard](http://www.bits-pilani.ac.in/pilani/ProjectBITSLifeGuard/Home) we have developed a fault-tolerant, cost-effective smart driver 
-safety jacket with real-time monitoring of vital signs, to prevent road 
-accidents and taking emergency action in the unlikely case an accident occurs.
-
-I worked on adaptive learning aspects of Body Sensor Networks 
-and **Sensor Data Fusion**. My work consisted of a literature survey of various sensor
-data fusion techniques used in Body Sensor Networks for IoT devices using 
-sensor data like GSR, ECG, HR, Respiration, etc.
-
-I also implemented and tested the accuracy of various sensor fusion 
-algorithms which are based on Artificial Neural Networks, Support Vector Machines,
-Bayesian probabilistic theory, Hidden Markov Models and finally those 
-based on Fuzzy Logic and Decision trees. The accuracy of these models will be 
-measured on real-time driving data which will be taken using a simulator built by the team.
+Developed a small compiler for a dummy language in the C language, as a part of partial fulfilment of the course **Compiler Construction**. Different modules of the compiler included **lexer**, **parser** in the front-end and **AST generator**, **semantic analyzer**, **type checker** and **assembly code generator** in the backend.
 
 ---
 
+### **Visual Question Answering | Mentor: [Dr. Dhiraj Sangwan](https://www.ceeri.res.in/profiles/dhiraj-sangwan/)**
+
+*June 2018 - December 2018*
+
+Created a model for visual question answering on the VQA dataset. Used **pre-trained VGG16** weights to extract image features and a **stacked LSTM** architecture for extracting question features. Used **multimodal low rank bilinear pooling** to combine both the feature matrices.
+
+---
+<!--
 ### **Distance Iris Recognition | Mentor: [Dr. Kamlesh Tiwari](http://www.bits-pilani.ac.in/pilani/kamleshtiwari/profile)**
 
 *January 2017 - May 2017*
