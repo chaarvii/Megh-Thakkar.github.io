@@ -6,36 +6,34 @@ layout: default
 
 <img class="profile-picture" src="dp.jpg">
 
-Hey! I am Rishabh, and I'm a research software engineer at Samsung R&D Institute, Bangalore, India. I am broadly interested the field of Natural Language Processing.
-In Samsung, I'm a part of the Voice Intelligence team (NLU) and we are working on chatbots. 
+Hi! I am Megh. I am a final year student at Birla Institute of Technology and Science (BITS), Pilani, majoring in Computer Science. I am broadly interested in Natural Language Processing, particularly in dialogue systems, question answering systems and conversational AI.
 
-Prior to this, I worked with [Dr. Partha Talukdar](http://talukdar.net) at [Machine And Language Learning (MALL) Lab](http://malllabiisc.github.io/) in the [Indian Institute of Science, Bangalore](https://www.iisc.ac.in/) as part of my Bachelor thesis. I completed my bachelor degree in computer science from [BITS Pilani, Pilani](http://www.bits-pilani.ac.in/pilani/) in 2018. 
+I am currently a research intern under [Prof. Chng Eng-Siong](https://www.ntu.edu.sg/home/aseschng/) at [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx) as part of my bachelor thesis. I am working on emotion recognition from speech and text in a multi-part dialogue environment. This is also where I had my first encounter with dialogue system as well as GCNs.
 
-I had worked on projects involving Sensor Fusion and Computer Vision in my university. More details can be found on the projects section.
+I previously worked under [Prof. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html) at the [Language Technology Lab](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home.html) in [Universität Hamburg](https://www.uni-hamburg.de/en.html). I worked on query-autocompletion for unseen prefixes, mostly experimenting with using contextualized embeddings to better capture the sense. Details can be found in my résumé/CV or under the experience section. 
 
-During my undergraduate years, I had the opportunity to work on some interesting problems at [IIRS, ISRO](https://www.iirs.gov.in/) (Indian Space Research Organization) and [Samsung Research Institute, Bangalore](https://research.samsung.com/sri-b).
+In my sophomore year, I was lucky to get selected for [Google Summer of Code, 2018](https://summerofcode.withgoogle.com/archive/2018/projects/6278298501906432/) as a part of the amazing [BioJS](biojs.net) community. I was mentored by [Rowland Mosbergen](https://twitter.com/rowlandm?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), [Yo Yehudi](http://yo-yehudi.com/) and [Dennis Schwartz](https://uk.linkedin.com/in/dennis-schwartz-093315b3). 
+
+I also interned at [Indian Institute of Remote Sensing](https://www.iirs.gov.in/), a research centre of [Indian Space Research Organization (ISRO)](https://www.isro.gov.in/), where I worked on a flight planning software for a UAV.
+
+I am a huge fan of travelling, mostly travelling cheap and light. I am on a **mission** of travelling to 21 countries before I turn 21 (12 Nov 2019), with 3 more to go! I am also a huge fan of electronic music, having attended [Tomorrowland, 2019](http://tomorrowland.com) and [Airbeat One, 2019](airbeat-one.de).
 
 ---
 
 ## Research Interest
 
-My research interests are mainly in the field of Machine Learning with a focus on applications of ML techniques to various domains.
-Of late, I have also started taking interest in ANNs and Deep Neural Networks because of the intriguing way they 
-work and mimic humans in cognitive tasks, especially those related to __Language__. 
+My research interests primarily lie in the field of machine learning and artificial intelligence, as well as their applications. I am fascinated by the human language and pretty much even remotely related to it, though I am slightly inclined towards researching on using language as a tool for human-computer interaction. I have also developed an interest in multimodal learning, researching at the intersection of natural language processing and computer vision.
 
 ---
 
-## Teaching and Positions of Responsibility
+## Positions of Responsibility
 
 Post | Organization | Duration
 --- | --- | ---
-Teaching Assistant | Data Structures and Algorithms | January 2017 - May 2017
-Executive Coordinator | [Embryo Club, BITS Pilani](http://embryo.bits-pilani.ac.in) | April 2016 - April 2017
-Joint Activities Coordinator | [ACM BITS Pilani Chapter](http://bitsacm.acm.org/) | August 2015 - August 2016
-Executive Committee Member | [NSS BITS Pilani Chapter](http://www.nss-bits-pilani.org/) | August 2015 - August 2016
-
+Core Member | [Committe of Students for Academic Activities](https://www.linkedin.com/in/costaa-apogee-bits-pilani-1b2267187/) | April 2018 - March 2019
+Member | Student Faculty Council | August 2017 - December 2017
 
 ---
-You can find the full source code of this site on [GitHub](https://github.com/rishabhjoshi/rishabhjoshi.github.io)
+You can find the full source code of this site on [GitHub](https://github.com/Megh-Thakkar/Megh-Thakkar.github.io)
 
 ---

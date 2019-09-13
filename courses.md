@@ -24,12 +24,7 @@ layout: default
 
 * Neural Networks & Fuzzy Logic
 * Information Retrieval
-* Computer Graphics
-* Parallel Computing
-* Pattern Recognition
-* Project Type Course ( Wearables Sensor Fusion )
-* Project Type Course ( Distance Iris Recognition )
-* Project Type Course ( One Class Classification )
+* Data Mining
 
 ### Mathematics
 
@@ -40,10 +35,10 @@ layout: default
 
 ### Other Courses
 
+* **Linguistics**
 * Principles of Economics
 * Creative Thinking
-* Srimad Bhagwad Gita
-* Effective Public Speaking
+* Business Communication
 * General Biology
 * General Chemistry
 * Workshop Practice
@@ -51,6 +46,5 @@ layout: default
 * Technical Report Writing
 * Electrical Sciences
 * Engineering Graphics
-* Project Type Course ( Ad Effectiveness )
  
  ---

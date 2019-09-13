@@ -3,28 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [f2014102p@alumni.bits-pilani.ac.in](mailto:f2014102p@alumni.bits-pilani.ac.in)
-         [rishabhjoshi0407@gmail.com](mailto:rishabhjoshi0407@gmail.com)
+* Email: [f2016036p@pilani.bits-pilani.ac.in](mailto:f2016036p@pilani.bits-pilani.ac.in)
+         [megh.1211@gmail.com](mailto:megh.1211@gmail.com)
 
-* Phone: [+91-9828621109](tel:+91-9828621109)
-
----
-
-## Mailing Address
-
-> Pheonix Building, Bagmane Constellation Park
->
-> Samsung Research Institute, India
->
-> Bangalore (560037), Karnataka 
->
-> India
+* Phone: [+91-9829799877](tel:+91-9829799877)
 
 ---
 
 ## Social
 
-1. [Facebook](https://www.facebook.com/rishabh.joshi.047)
-2. [Github](https://github.com/rishabhjoshi)
-3. [LinkedIn](https://in.linkedin.com/in/rishabh-joshi-887351b2)
-4. [Google Scholar](https://scholar.google.co.in/citations?user=vu2pNVAAAAAJ&hl=en&oi=ao)
+1. [Facebook](https://www.facebook.com/profile.php?id=100008296102223)
+2. [Github](https://github.com/Megh-Thakkar)
+3. [LinkedIn](https://in.linkedin.com/in/megh-thakkar)

@@ -4,15 +4,15 @@
 - name: "Courses"
   link: "courses"
   
-- name: "Publications"
-  link: "publications"
+# - name: "Publications"
+#   link: "publications"
 
-- name: "Projects"
-  link: "projects"
+# - name: "Projects"
+#   link: "projects"
 
-- name: "Resume"
-  link: "Rishabh_Joshi_Resume.pdf"
+# - name: "Resume"
+#   link: "Rishabh_Joshi_Resume.pdf"
 
 - name: "Home"
-  link: "https://rishabhjoshi.github.io"
+  link: "https://Megh-Thakkar.github.io"
 
