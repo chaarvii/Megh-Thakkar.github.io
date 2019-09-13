@@ -25,7 +25,7 @@ I worked at [Language Technology Lab](https://www.inf.uni-hamburg.de/en/inst/ab/
 
 *May 2018 - August 2018*
 
-I led the development of a new [website for BioJS](biojs.net), a library of over hundred JavaScript components that enables one to visualize and process data using current web technologies. The backend stack used Django and frontend used VueJS. Timely database updates are facilitated from Github and the npm-registry.
+I led the development of a new [website for BioJS](http://biojs.net), a library of over hundred JavaScript components that enables one to visualize and process data using current web technologies. The backend stack used Django and frontend used VueJS. Timely database updates are facilitated from Github and the npm-registry.
 
 ---
 
@@ -55,9 +55,25 @@ Developed a small compiler for a dummy language in the C language, as a part of 
 
 ### **Visual Question Answering | Mentor: [Dr. Dhiraj Sangwan](https://www.ceeri.res.in/profiles/dhiraj-sangwan/)**
 
-*June 2018 - December 2018*
+*August 2018 - November 2018*
 
 Created a model for visual question answering on the VQA dataset. Used **pre-trained VGG16** weights to extract image features and a **stacked LSTM** architecture for extracting question features. Used **multimodal low rank bilinear pooling** to combine both the feature matrices.
+
+---
+
+### **Feedback-based Retrieval System with Sentence Ranking | Mentor: [Dr. Poonam Goyal](https://www.bits-pilani.ac.in/pilani/poonam/Profile)**
+
+*October 2018 - November 2018*
+
+Designed and implemented an efficient retrieval framework for text documents. Used **tf-idf** based scoring methods to rank documents and used the **BM25** algorithm to find the best match in a document. Monitored user clicks on documents and made future recommendations based on these clicks. 
+
+---
+
+### **Convolutional Neural Networks in Scala | Mentor: [Dr. Lavika Goyal](https://www.bits-pilani.ac.in/pilani/lavikagoel/profile)**
+
+*October 2018 - November 2018*
+
+Developed a two layer deep convolutional neural network in scala using purely **functional programming concepts**, as a part of partial fulfilment of the course **Principles of Programming Languages**.
 
 ---
 <!--
