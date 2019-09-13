@@ -16,7 +16,7 @@ In my sophomore year, I was lucky to get selected for [Google Summer of Code, 20
 
 I also interned at [Indian Institute of Remote Sensing](https://www.iirs.gov.in/), a research centre of [Indian Space Research Organization (ISRO)](https://www.isro.gov.in/), where I worked on a flight planning software for a UAV.
 
-I am a huge fan of travelling, mostly travelling cheap and light. I am on a **mission** of travelling to 21 countries before I turn 21 (12 Nov 2019), with 3 more to go! I am also a huge fan of electronic music, having attended [Tomorrowland, 2019](http://tomorrowland.com) and [Airbeat One, 2019](http://www.airbeat-one.de)!!!
+I am a huge fan of travelling, mostly travelling cheap and light. I am on a "mission ;)" of travelling to 21 countries before I turn 21 (12 Nov 2019), with 3 more to go! I am also a huge fan of electronic music, having attended [Tomorrowland, 2019](http://tomorrowland.com) and [Airbeat One, 2019](http://www.airbeat-one.de)!!!
 
 ---
 
