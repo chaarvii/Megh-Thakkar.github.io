@@ -9,7 +9,7 @@ layout: default
 
 *August 2019 - Present*
 
-I am working as a research intern at the **Speech and Language Processing Group** under [Prof. Chng Eng-Siong](https://www.ntu.edu.sg/home/aseschng/). I am working on creating dialogue centric models to detect emotion from speech and text. I am currently experimeting with convolutional RNNs and plan to use a GCN model as well. Evaluation is being done on the IEMOCAP dataset.
+I am working as a research intern at the **Speech and Language Processing Group** under [Prof. Chng Eng-Siong](https://www.ntu.edu.sg/home/aseschng/). I am working on creating dialogue centric models to detect emotion from speech and text. I am currently experimeting with convolutional RNNs and plan to use a Recursive Neural Network model as well. Evaluation will be done on the IEMOCAP dataset.
 
 ---
 
