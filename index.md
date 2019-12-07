@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am Megh. I am a final year student at Birla Institute of Technology and Science (BITS), Pilani, majoring in Computer Science. I am broadly interested in Natural Language Processing, particularly in dialogue systems, question answering systems and conversational AI.
 
-I am currently a research intern under [Prof. Chng Eng-Siong](https://www.ntu.edu.sg/home/aseschng/) at [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx) as part of my bachelor thesis. I am working on emotion recognition from speech and text in a multi-part dialogue environment. This is also where I had my first encounter with dialogue system as well as GCNs.
+I am currently a research intern under [Prof. Chng Eng-Siong](https://www.ntu.edu.sg/home/aseschng/) at [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx) as part of my bachelor thesis. I am experimenting with transformer based architectures for next sentence prediction and conversation disentanglement. I also worked on a production ready API gateway for various modules already developed at the lab, such as SUD, NER and summarization. For the gateway, I also made a simple CNN architecture to detect emotion from speech.
 
 I previously worked under [Prof. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html) at the [Language Technology Lab](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home.html) in [Universität Hamburg](https://www.uni-hamburg.de/en.html), as a scholar of the [DAAD-WISE](https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?daad=1&detail=50015295&origin=4&page=1&q=wise&status=1&subjectGrps=) scholarship. I worked on query-autocompletion for unseen prefixes, mostly experimenting with using contextualized embeddings to better capture the sense. Details can be found in my résumé/CV or under the projects section. 
 
@@ -16,7 +16,7 @@ In my sophomore year, I was lucky to get selected for [Google Summer of Code, 20
 
 I also interned at [Indian Institute of Remote Sensing](https://www.iirs.gov.in/), a research centre of [Indian Space Research Organization (ISRO)](https://www.isro.gov.in/), where I worked on a flight planning software for a UAV.
 
-I am a huge fan of travelling, mostly travelling cheap and light. I am on a "mission ;)" of travelling to 21 countries before I turn 21 (12 Nov 2019), and need to cover 3 more for the "goal ;) x2"! I am also a huge fan of electronic music, having attended [Tomorrowland, 2019](http://tomorrowland.com) and [Airbeat One, 2019](http://www.airbeat-one.de)!!!
+I am a huge fan of travelling, mostly travelling cheap and light. I was able to travel 21 countries before I turned 21 years old (Nov 19)! I am also a huge fan of electronic music, having attended [Tomorrowland, 2019](http://tomorrowland.com) and [Airbeat One, 2019](http://www.airbeat-one.de)!!!
 
 ---
 
