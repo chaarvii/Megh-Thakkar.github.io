@@ -5,11 +5,11 @@ layout: default
 ## Experience 
 ---
 
-### **Speech Emotion Recognition in Dialogues | NTU, Singapore**
+### **Next Utterance Prediction and Conversation Disentanglement; SER; API Gateway | NTU, Singapore**
 
 *August 2019 - Present*
 
-I am working as a research intern at the **Speech and Language Processing Group** under [Prof. Chng Eng-Siong](https://www.ntu.edu.sg/home/aseschng/). I am working on creating dialogue centric models to detect emotion from speech and text. I am currently experimeting with convolutional RNNs and plan to use a Recursive Neural Network model as well. Evaluation will be done on the IEMOCAP dataset.
+I am working as a research intern at the **Multimedia and Interactive Computing Lab** under [Prof. Chng Eng-Siong](https://www.ntu.edu.sg/home/aseschng/). I am working on transformer based architectures (starting with BERT and modifying it, such as adding utterance level transformer layers) for next sentence prediction and conversation disentanglement (dstc [7](http://workshop.colips.org/dstc7/)/[8](https://sites.google.com/dstc.community/dstc8)). I also developed an API Gateway that acts as a common interface for modules already developed by fellow researchers, such as SUD and summarization. I further developed a basic CNN based model for emotion recognition from speech ([RAVDESS](https://zenodo.org/record/1188976#.Xfz4G9YzbRY) dataset) as a contribution to the API Gateway.
 
 ---
 
