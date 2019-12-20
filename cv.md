@@ -6,6 +6,6 @@ layout: default
 
 - *[CV (2 pages)](CV.pdf)*
 
-- *[résumé (1 page)](résumé.pdf)*
+- *[résumé (1 page)](résumé.pdf)*
 
 ---
