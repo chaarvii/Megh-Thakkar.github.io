@@ -30,7 +30,7 @@ My research interests primarily lie in the field of machine learning and artific
 
 Post | Organization | Duration
 --- | --- | ---
-Core Member | [Committe of Students for Academic Activities](https://www.linkedin.com/in/costaa-apogee-bits-pilani-1b2267187/) | April 2018 - March 2019
+Core Member | [Council of Students for Academic Activities](https://www.linkedin.com/in/costaa-apogee-bits-pilani-1b2267187/) | April 2018 - March 2019
 Member | Student Faculty Council | August 2017 - December 2017
 
 ---
