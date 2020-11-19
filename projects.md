@@ -33,7 +33,7 @@ I worked at [Language Technology Lab](https://www.inf.uni-hamburg.de/en/inst/ab/
 
 *May 2018 - August 2018*
 
-I led the development of a new [website for BioJS](http://biojs.net), a library of over hundred JavaScript components that enables one to visualize and process data using current web technologies. The backend stack used Django and frontend used VueJS. Timely database updates are facilitated from Github and the npm-registry.
+I led the development of a new [website for BioJS](https://en.wikipedia.org/wiki/BioJS), a library of over hundred JavaScript components that enables one to visualize and process data using current web technologies. The backend stack used Django and frontend used VueJS. Timely database updates are facilitated from Github and the npm-registry.
 
 ---
 
