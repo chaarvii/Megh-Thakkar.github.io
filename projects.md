@@ -83,7 +83,7 @@ Organization (**ISRO**)](http://www.isro.gov.in/) on "*UAV Flight Planner with S
 
 *January 2020 - May 2020*
 
-Did a study oriented project on the [TextVQA](https://textvqa.org/) task. Did literature review and studied various methods of multimodal attention and optical character recognition. Identified some drawbacks about the baseline OCR method and used basic heuristics to improve the same. A book chapter highlighting the findings as well as on other applications of multimodal deep learning is in submission.
+Did a study oriented project on the [TextVQA](https://textvqa.org/) task. Did literature review and studied various methods of multimodal attention and optical character recognition. Identified some drawbacks about the baseline OCR method and used basic heuristics to improve the same.
 
 
 ---
