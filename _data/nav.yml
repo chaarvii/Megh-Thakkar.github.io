@@ -3,9 +3,8 @@
 
 - name: "Courses"
   link: "courses"
-  
-# - name: "Publications"
-#   link: "publications"
+- name: "Publications"
+  link: "publications"
 
 - name: "Projects"
   link: "projects"
