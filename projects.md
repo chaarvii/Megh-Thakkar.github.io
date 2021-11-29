@@ -63,7 +63,7 @@ layout: default
 
 ---
 
-### **UAV Flight Planner with Shadow Exclusion | IIRS, ISRO**
+### **UAV Flight Planner with Shadow Exclusion | IIRS, Indian Space Research Organization**
 
 *May 2018 - July 2018*
 
