@@ -6,17 +6,21 @@ layout: default
 
 <img class="profile-picture" src="dp.jpg">
 
-Hi! I am Megh. I am a recent computer science engineering graduate from Birla Institute of Technology and Science (BITS), Pilani. I am broadly interested in Natural Language Processing, particularly in dialogue systems, question answering systems and conversational AI.
+Hi! I am Megh. I am a computer science engineering graduate from Birla Institute of Technology and Science (BITS), Pilani. I am broadly interested in Natural Language Processing, particularly in dialogue systems, question answering systems and conversational AI.
 
-I am currently working as a research assistant at the [NTU-NLP](https://ntunlpsg.github.io/) group under [Dr. Shafiq Joty](https://raihanjoty.github.io/) in collaboration with Salesforce Research Asia, Singapore. I am working on the task of open domain question answering by combining text and knowledge base information. This is also my first experience with graph convolutional networks.
+I am currently working as a machine learning engineer at [Avaamo](https://avaamo.ai/) on conversational intelligence, focusing on speech synthesis and tabular question answering.
 
-In my final year of undergrad, I worked as a research intern under [Prof. Chng Eng-Siong](https://www.ntu.edu.sg/home/aseschng/) at [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx) as part of my bachelor thesis. I focused on improving the diversity of text generation models, particularly for dialogues and chit-chat. I also worked on a production ready API gateway for various modules already developed at the lab, such as SUD, NER and summarization. For the gateway, I also made a simple CNN architecture to detect emotion from speech.
+Alongside, I am working as a research assistant at the [NTU-NLP](https://ntunlpsg.github.io/) group under [Dr. Shafiq Joty](https://raihanjoty.github.io/) and [Dr. Enamul Hoque](https://www.yorku.ca/enamulh/) on graph-to-text models for large-scale pre-training of knowledge-infused chart representations. I previously worked on combining text and graph encoders to effectively leverage text and knowledge base information for open-domain question answering.
+
+I am also working as a research assistant at [MIDAS](https://midas.iiitd.edu.in/), IIIT Delhi. My work mainly focuses on exploring and optimizing interpolative augmentation methods in different geometrical representation spaces and in the multilingual embedding space.
+
+In my final year of undergrad, I worked as a research intern under [Prof. Chng Eng-Siong](https://www.ntu.edu.sg/home/aseschng/) at [Nanyang Technological University](https://www.ntu.edu.sg/Pages/home.aspx). I worked on an API gateway for various modules already developed at the lab, such as SUD, NER and summarization. For the gateway, I also made a simple CNN architecture to detect emotion from speech.
 
 I previously worked under [Prof. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html) at the [Language Technology Lab](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home.html) in [Universität Hamburg](https://www.uni-hamburg.de/en.html), as a scholar of the [DAAD-WISE](https://www.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?daad=1&detail=50015295&origin=4&page=1&q=wise&status=1&subjectGrps=) scholarship. I worked on query-autocompletion for unseen prefixes, mostly experimenting with using contextualized embeddings to better capture the sense. Details can be found in my résumé/CV or under the projects section. 
 
 In my sophomore year, I was lucky to get selected for [Google Summer of Code, 2018](https://summerofcode.withgoogle.com/archive/2018/projects/6278298501906432/) as a part of the amazing [BioJS](biojs.net) community. I was mentored by [Rowland Mosbergen](https://twitter.com/rowlandm?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor), [Yo Yehudi](http://yo-yehudi.com/) and [Dennis Schwartz](https://uk.linkedin.com/in/dennis-schwartz-093315b3). 
 
-I also interned at [Indian Institute of Remote Sensing](https://www.iirs.gov.in/), a research centre of [Indian Space Research Organization (ISRO)](https://www.isro.gov.in/), where I worked on a flight planning software for a UAV.
+I have interned at [Indian Institute of Remote Sensing](https://www.iirs.gov.in/), a research centre of [Indian Space Research Organization (ISRO)](https://www.isro.gov.in/), where I worked on a flight planning software for a UAV.
 
 I am a huge fan of travelling, mostly travelling cheap and light. I was able to travel 21 countries before I turned 21 years old (Nov 19)! I am also a huge fan of electronic music, having attended [Tomorrowland, 2019](http://tomorrowland.com) and [Airbeat One, 2019](http://www.airbeat-one.de)!!!
 
