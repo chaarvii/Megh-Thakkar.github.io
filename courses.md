@@ -2,49 +2,33 @@
 layout: default
 ---
 
-### Computer Science
+## Computer Science  
+   1. Neural Networks and Fuzzy Logic
+   2. Data Structures and Algorithms
+   3. Object Oriented Programming in Java
+   4. Computer Programming in C
+   5. Operating Systems
+   6. Database Systems
+   7. Discrete Structures for Computer Science
+   8. Logic in Computer Science
+   9. Theory of Computation
+   10. Principles of Programming Languages
+  
+## Biological Sciences 
+   1. Stem Cell and Regenerative Biology 
+   2. Cell Biology 
+   3. Biochemistry 
+   4. Biophysics 
+   5. Bioinformatics 
+   6. Genetics 
+   7. Recombinant DNA Technology 
+   8. Instrumental Methods of Analysis 
+   9. Developmental Biology 
+   10. Biomolecular Modelling
 
-* Computer Programming
-* Object Oriented Programming
-* Logic in Computer Science
-* Database Systems
-* Digital Design
-* Microprocessors & Interfacing
-* Discrete Structures for Computer Science
-* Data Structures and Algorithms
-* Computer Architecture
-* Operating Systems
-* Theory of Computation
-* Principles of Programming Languages
-* Compiler Construction
-* Computer Networks
-* Design and Analysis of Algorithms
-
-### Discipline Electives
-
-* Neural Networks & Fuzzy Logic
-* Information Retrieval
-* Data Mining
-
-### Mathematics
-
-* Mathematics I - Calculus
-* Mathematics II - Linear Algebra
-* Mathematics III - Differential Equations
-* Probability and Statistics
-
-### Other Courses
-
-* **Linguistics**
-* Principles of Economics
-* Creative Thinking
-* Business Communication
-* General Biology
-* General Chemistry
-* Workshop Practice
-* Mechanics, Oscillations & Waves
-* Technical Report Writing
-* Electrical Sciences
-* Engineering Graphics
- 
+## Mathematics 
+   1. Mathematics I - Calculus
+   2. Mathematics II - Linear Algebra
+   3. Mathematics III - Differential Equations
+   4. Probability and Statistics
  ---
