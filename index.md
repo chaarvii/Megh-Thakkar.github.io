@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="dp.jpg">
+<img class="profile-picture" src="profile.jpg">
 
 Hi! I am Chaarvi Bansal. I am a pre-final year student at BITS Pilani, India, pursuing a dual degree in M.Sc.(Honours) Biological Sciences and B.E.(Honours) Computer Science. My research interests center around the application of deep learning in areas involving computational biology, bioinformatics and medicine. 
 
