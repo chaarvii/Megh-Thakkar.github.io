@@ -3,15 +3,16 @@
 
 - name: "Courses"
   link: "courses"
-- name: "Publications"
-  link: "publications"
+  
+# - name: "Publications"
+#   link: "publications"
 
 - name: "Projects"
   link: "projects"
 
-- name: "Résumé/CV"
-  link: "cv"
+- name: "Résumé"
+  link: "ChaarviBansalResume.pdf"
 
 - name: "Home"
-  link: "https://Megh-Thakkar.github.io"
+  link: "https://chaarvii.github.io"
 
