@@ -3,15 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [f2016036@pilani.bits-pilani.ac.in](mailto:f2016036@pilani.bits-pilani.ac.in)  
-         [megh.1211@gmail.com](mailto:megh.1211@gmail.com)
+* Email: [f20180913@pilani.bits-pilani.ac.in](mailto:f20180913@pilani.bits-pilani.ac.in)  
+         [chaarvib@gmail.com](mailto:chaarvib@gmail.com)
 
-* Phone: [+91-9829799877](tel:+91-9829799877)
+* Phone: [+91-7678531648](tel:+91-7678531648)
 
 ---
 
 ## Social
 
-1. [Facebook](https://www.facebook.com/profile.php?id=100008296102223)
-2. [Github](https://github.com/Megh-Thakkar)
-3. [LinkedIn](https://in.linkedin.com/in/megh-thakkar)
+1. [Facebook](https://www.facebook.com/chaarvib)
+2. [Github](https://github.com/chaarvii)
+3. [LinkedIn](https://in.linkedin.com/in/chaarvibansal)
