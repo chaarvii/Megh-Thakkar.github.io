@@ -9,8 +9,8 @@ layout: default
 ### **sySTEMs: COVID-19 Drug Repurposing | CSIRO Australia and University of New South Wales**
 
 *January 2021 - Present*  
-*'sySTEMs initiative' is a play on words: systems biology + stem cells. The project has recently recieved a funding of \$1M by the MRFF and \$0.7M by CSIRO.*  
-Working under the supervision of Dr. Vinti Agarwal, Dr. Rohitash Chandra and, Dr. S.S. Vasan. 
+*'sySTEMs initiative' is a play on words: systems biology + stem cells. The project is funded by FDA and the Australian government.*  
+Working under the supervision of Dr. Rohitash Chandra, Dr. S.S. Vasan and, Dr. Vinti Agarwal. 
 - Working with a team of international researchers to re-purpose drugs already approved for other diseases to fight COVID and its variants.  
 - Employing multiomics approach to evaluate the biochemical utility of shortlisted compounds. 
 - Responsible for designing the experiments and optimising the parameters involved using machine learning.
