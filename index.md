@@ -8,7 +8,7 @@ layout: default
 
 Hi! I am Chaarvi Bansal. I am a pre-final year student at BITS Pilani, India, pursuing a dual degree in M.Sc.(Honours) Biological Sciences and B.E.(Honours) Computer Science. My research interests center around the application of deep learning in areas involving computational biology, bioinformatics and medicine. 
 
-Currently, I am working under the supervision of Dr. Rohitash Chandra, University of New South Wales, and Professor S.S. Vasan, University of York, on a [COVID-19 Drug Repurposing](https://bioinformatics.csiro.au/blog/covid-19-drug-repurposing/) project at CSIRO Australia. Prior to this, I was working on a greedy based De-Novo Genome Assembler at Advanced Data Analytics and Parallel Technologies Lab BITS Pilani. 
+Currently, I am working under the supervision of Dr. Rohitash Chandra, University of New South Wales, and Professor S.S. Vasan, University of York, on a [MRFF Covid-19 Drug Repurposing Project & FDA Covid-19 Systems Biology-AIML Project](https://bioinformatics.csiro.au/blog/covid-19-drug-repurposing/) at CSIRO Australia. Prior to this, I was working on a greedy based De-Novo Genome Assembler at Advanced Data Analytics and Parallel Technologies Lab BITS Pilani. 
 
 Recently, I have been awarded the MITACS Globalink Research Scholarship 2022 to work with Professor Kathrin Tyryshkin on the project titled <i> Modelling neuroendocrine neoplasms through graph neural networks and post-transcriptional gene regulatation </i> at Queen's University, Kingston. 
 
