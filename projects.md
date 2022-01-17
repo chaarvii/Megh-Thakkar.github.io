@@ -6,18 +6,18 @@ layout: default
 
 ---
 
-### **sySTEMs: COVID-19 Drug Repurposing | CSIRO Australia and University of New South Wales**
+### **MRFF Covid-19 Drug Repurposing Project & FDA Covid-19 Systems Biology-AIML Project | [CSIRO Australia](https://bioinformatics.csiro.au/)**
 
 *January 2021 - Present*  
-*'sySTEMs initiative' is a play on words: systems biology + stem cells. The project is funded by FDA and the Australian government.*  
-Working under the supervision of Dr. Rohitash Chandra, Dr. S.S. Vasan and, Dr. Vinti Agarwal. 
+*This project is funded by the FDA and the Australian government.*  
+Working under the supervision of [Dr. Rohitash Chandra](http://rohitash-chandra.github.io/), [Professor S.S. Vasan](https://www.york.ac.uk/healthsciences/our-staff/honoraryemeritus/seshadri-vasan/) and, [Dr. Vinti Agarwal](https://www.bits-pilani.ac.in/pilani/vinti/profile). 
 - Working with a team of international researchers to re-purpose drugs already approved for other diseases to fight COVID and its variants.  
 - Employing multiomics approach to evaluate the biochemical utility of shortlisted compounds. 
 - Responsible for designing the experiments and optimising the parameters involved using machine learning.
 
 ---
 
-### **QAi Toolbox: QGIS Plugin for Machine Learning and Deep Learning based Land Cover Classification | North Eastern Space Application Center, Govt. of India**
+### **QAi Toolbox: QGIS Plugin for Machine Learning and Deep Learning based Land Cover Classification | [North Eastern Space Application Center, Govt. of India](https://nesac.gov.in/)**
 
 *May 2020 - July 2020*  
 *NESAC is a government research lab serving eight states of India's North Eastern Region using space science and technology.*
@@ -41,7 +41,7 @@ Did project type courses for two consecutive semesters at advanced data analytic
 
 ---
  
-### **Research Paper Implemtation | Mentor: [Dr. Surekha Bhanot](https://universe.bits-pilani.ac.in/pilani/surekha/profile)**
+### **Research Paper Implementation | Mentor: [Dr. Surekha Bhanot](https://universe.bits-pilani.ac.in/pilani/surekha/profile)**
 
 *August 2021 - December 2021*   
 - Implemented the v3 inception net architecture described in the paper 'Rethinking the Inception Architecture for Computer Vision' from scratch in Pytorch.
