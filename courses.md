@@ -23,7 +23,7 @@ layout: default
    6. Genetics 
    7. Recombinant DNA Technology 
    8. Instrumental Methods of Analysis 
-   9. Developmental Biology 
+   9. Developmental Biology
    10. Biomolecular Modelling
 
 ## Mathematics 
