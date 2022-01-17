@@ -5,26 +5,32 @@ layout: default
 ## Computer Science  
    1. Neural Networks and Fuzzy Logic
    2. Data Structures and Algorithms
-   3. Object Oriented Programming in Java
-   4. Computer Programming in C
-   5. Operating Systems
-   6. Database Systems
-   7. Discrete Structures for Computer Science
-   8. Logic in Computer Science
-   9. Theory of Computation
-   10. Principles of Programming Languages
+   3. Design and Analysis of Algorithms
+   4. Object Oriented Programming in Java
+   5. Computer Programming in C
+   6. Principles of Programming Languages
+   7. Compiler Construction 
+   8. Network Programming
+   9. Database Systems
+   10. Operating Systems
+   11. Discrete Structures for Computer Science
+   12. Logic in Computer Science
+   13. Theory of Computation
+ 
   
 ## Biological Sciences 
    1. Stem Cell and Regenerative Biology 
    2. Cell Biology 
-   3. Biochemistry 
-   4. Biophysics 
-   5. Bioinformatics 
-   6. Genetics 
-   7. Recombinant DNA Technology 
-   8. Instrumental Methods of Analysis 
-   9. Developmental Biology
-   10. Biomolecular Modelling
+   3. Genetics
+   4. Biochemistry 
+   5. Biophysics 
+   6. Bioinformatics 
+   8. Recombinant DNA Technology 
+   9. Instrumental Methods of Analysis 
+   10. Developmental Biology
+   11. Biomolecular Modelling
+   12. Immunology
+   13. Microbiology
 
 ## Mathematics 
    1. Mathematics I - Calculus
