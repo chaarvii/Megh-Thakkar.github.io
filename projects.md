@@ -51,7 +51,7 @@ Did project type courses for two consecutive semesters at advanced data analytic
 
 ### **MiRNA and Acquisition of Drug Resistance in Cancer Cells | Mentor: [Dr. Rajdeep Chowdhury](https://universe.bits-pilani.ac.in/pilani/rajdeep/profile)**
 
-*January 2020 - May 2021*   
+*January 2020 - May 2020*   
 - Analysed deep sequencing data of osteosarcoma cells in four different stages.
 - Identified deregulated miRNA-mRNA sets responsible for the development of drug resistance to cisplatin.
 - Studied and examined the impact of miRNA deregulation on cellular processes.
