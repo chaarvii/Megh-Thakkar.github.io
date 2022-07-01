@@ -5,14 +5,17 @@ layout: default
 ## Computer Science  
    1. Neural Networks and Fuzzy Logic
    2. Data Structures and Algorithms
+   3. Design and Analysis of Algorithms
    4. Object Oriented Programming in Java
    5. Computer Programming in C
    6. Principles of Programming Languages
    9. Database Systems
-   10. Operating Systems
-   11. Discrete Structures for Computer Science
-   12. Logic in Computer Science
-   13. Theory of Computation
+   10. Compiler Construction
+   11. Operating Systems
+   12. Discrete Structures for Computer Science
+   13. Logic in Computer Science
+   14. Theory of Computation
+   15. Computer Networks
  
   
 ## Biological Sciences 
