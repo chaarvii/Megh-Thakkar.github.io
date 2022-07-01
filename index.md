@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile-pic.jpg">
 
-Hi! I am Chaarvi Bansal. I am a pre-final year student at BITS Pilani, India, pursuing a dual degree in M.Sc.(Honours) Biological Sciences and B.E.(Honours) Computer Science. My research interests center around the application of deep learning in areas involving computational biology, bioinformatics and medicine. 
+Hi! I am Chaarvi Bansal. I am a pre-final year student at BITS Pilani, India, pursuing a dual degree in M.Sc.(Honours) Biological Sciences and B.E.(Honours) Computer Science. My research interests center around the application of deep learning in medicine and biomedical informatics. 
 
 Currently, I am working under the supervision of Dr. Rohitash Chandra, University of New South Wales, and Professor S.S. Vasan, University of York, on a [MRFF Covid-19 Drug Repurposing Project & FDA Covid-19 Systems Biology-AIML Project](https://bioinformatics.csiro.au/blog/covid-19-drug-repurposing/) at CSIRO Australia. Prior to this, I was working on a greedy based De-Novo Genome Assembler at Advanced Data Analytics and Parallel Technologies Lab BITS Pilani. 
 
@@ -20,11 +20,11 @@ Apart from this, I also like to read. Genius Makers by Cade Metz, Ikigai by Hect
 
 * M.Sc. Biological Sciences, _Aug 2018 - Present_  
    Birla Institute of Technology and Science, Pilani, Pilani Campus  
-   CGPA: 8.69
+   CGPA: 8.60
    
 * B.E. Computer Science, _Aug 2018 - Present_  
    Birla Institute of Technology and Science, Pilani, Pilani Campus  
-   CGPA: 8.69
+   CGPA: 8.60
    
 * High School Diploma, _Mar 2016 - May 2018_  
    Amity International School, Pushp Vihar, New Delhi  
